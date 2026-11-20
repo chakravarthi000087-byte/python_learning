@@ -1,0 +1,301 @@
+month,product,category,region,quantity,unit_price
+Jan,Rice (5kg),Grocery,East,4,450
+Mar,Phone,Electronics,North,2,20000
+Sep,Rice (5kg),Grocery,North,24,450
+Jan,Jeans,Clothing,North,14,1800
+Apr,Laptop,Electronics,North,2,55000
+Dec,Jeans,Clothing,West,7,1800
+Oct,Phone,Electronics,East,4,20000
+Jan,Notebook,Stationery,South,28,60
+Jun,Rice (5kg),Grocery,East,14,450
+Jun,Phone,Electronics,North,2,20000
+Feb,Laptop,Electronics,East,4,55000
+Oct,Notebook,Stationery,East,12,60
+Dec,Notebook,Stationery,West,2,60
+Jul,Jeans,Clothing,North,4,1800
+Nov,Jeans,Clothing,East,10,1800
+Dec,Jeans,Clothing,North,7,1800
+May,Laptop,Electronics,North,2,55000
+Feb,Notebook,Stationery,West,8,60
+Nov,Headphones,Electronics,East,15,2500
+Jun,Phone,Electronics,South,3,20000
+Dec,Rice (5kg),Grocery,North,9,450
+Mar,Jeans,Clothing,South,21,1800
+Jul,Phone,Electronics,East,4,20000
+Sep,Rice (5kg),Grocery,South,23,450
+Jan,Rice (5kg),Grocery,South,11,450
+Jun,Notebook,Stationery,West,2,60
+Apr,Headphones,Electronics,East,3,2500
+Jul,Phone,Electronics,West,4,20000
+Mar,Phone,Electronics,South,3,20000
+Sep,Rice (5kg),Grocery,East,18,450
+Jul,Rice (5kg),Grocery,West,19,450
+Mar,Headphones,Electronics,West,8,2500
+Feb,Laptop,Electronics,South,1,55000
+Nov,Rice (5kg),Grocery,West,6,450
+Jul,Jeans,Clothing,West,3,1800
+Sep,Jeans,Clothing,East,15,1800
+Jan,Jeans,Clothing,North,28,1800
+Sep,Rice (5kg),Grocery,East,29,450
+Jun,Notebook,Stationery,North,21,60
+Mar,Headphones,Electronics,West,14,2500
+Sep,Laptop,Electronics,South,3,55000
+Feb,Jeans,Clothing,East,30,1800
+Sep,Notebook,Stationery,South,21,60
+Mar,Phone,Electronics,North,3,20000
+Aug,Jeans,Clothing,North,11,1800
+May,Laptop,Electronics,South,3,55000
+Oct,Laptop,Electronics,North,2,55000
+Feb,Laptop,Electronics,South,4,55000
+Sep,Phone,Electronics,South,4,20000
+Oct,Headphones,Electronics,West,17,2500
+Dec,Phone,Electronics,South,5,20000
+Jul,Rice (5kg),Grocery,East,10,450
+Sep,T-Shirt,Clothing,West,29,700
+Apr,Laptop,Electronics,North,2,55000
+Oct,Headphones,Electronics,South,1,2500
+Jan,Jeans,Clothing,North,8,1800
+Jan,Rice (5kg),Grocery,South,21,450
+Jun,Laptop,Electronics,North,1,55000
+May,Jeans,Clothing,West,8,1800
+Mar,Phone,Electronics,West,5,20000
+Jul,Phone,Electronics,South,4,20000
+Nov,Laptop,Electronics,West,1,55000
+Jul,Headphones,Electronics,West,14,2500
+Jan,Notebook,Stationery,North,24,60
+Dec,Laptop,Electronics,East,4,55000
+Feb,Notebook,Stationery,South,28,60
+Sep,Phone,Electronics,West,2,20000
+Mar,Phone,Electronics,East,4,20000
+Feb,T-Shirt,Clothing,West,8,700
+Sep,Notebook,Stationery,North,28,60
+Jan,Laptop,Electronics,North,5,55000
+Apr,Notebook,Stationery,South,28,60
+Aug,T-Shirt,Clothing,South,16,700
+Jan,Notebook,Stationery,South,13,60
+Jul,T-Shirt,Clothing,East,1,700
+Aug,Notebook,Stationery,East,26,60
+Dec,T-Shirt,Clothing,West,23,700
+May,Phone,Electronics,South,2,20000
+Dec,Laptop,Electronics,North,5,55000
+Jan,Rice (5kg),Grocery,North,11,450
+Sep,Jeans,Clothing,South,16,1800
+Feb,Laptop,Electronics,South,5,55000
+Feb,Laptop,Electronics,South,5,55000
+Oct,T-Shirt,Clothing,South,4,700
+Jan,Jeans,Clothing,North,20,1800
+Oct,T-Shirt,Clothing,East,22,700
+Nov,Headphones,Electronics,East,7,2500
+Jul,Phone,Electronics,South,3,20000
+May,Rice (5kg),Grocery,West,21,450
+Feb,Headphones,Electronics,North,30,2500
+Oct,T-Shirt,Clothing,North,20,700
+Apr,Laptop,Electronics,East,5,55000
+Feb,Phone,Electronics,South,3,20000
+Mar,Headphones,Electronics,West,10,2500
+Dec,Notebook,Stationery,East,18,60
+Nov,Jeans,Clothing,North,26,1800
+Sep,Rice (5kg),Grocery,East,27,450
+Mar,Rice (5kg),Grocery,East,4,450
+Dec,Laptop,Electronics,South,1,55000
+Oct,Headphones,Electronics,South,10,2500
+Apr,Rice (5kg),Grocery,East,11,450
+May,Jeans,Clothing,North,16,1800
+May,Laptop,Electronics,North,4,55000
+Mar,Laptop,Electronics,East,3,55000
+Sep,Phone,Electronics,West,4,20000
+Feb,Jeans,Clothing,North,1,1800
+Mar,Rice (5kg),Grocery,North,29,450
+Oct,Notebook,Stationery,South,12,60
+Jan,T-Shirt,Clothing,East,5,700
+Jan,Headphones,Electronics,East,29,2500
+Nov,Phone,Electronics,North,2,20000
+Sep,Headphones,Electronics,West,25,2500
+Mar,Jeans,Clothing,South,24,1800
+Mar,Notebook,Stationery,West,6,60
+Dec,Laptop,Electronics,East,2,55000
+Jul,Notebook,Stationery,South,30,60
+Dec,Headphones,Electronics,North,6,2500
+Jan,T-Shirt,Clothing,West,28,700
+Aug,Phone,Electronics,East,2,20000
+Apr,Headphones,Electronics,South,27,2500
+Jul,Laptop,Electronics,East,2,55000
+Feb,Headphones,Electronics,East,28,2500
+Sep,Headphones,Electronics,West,21,2500
+Sep,Rice (5kg),Grocery,East,27,450
+May,Laptop,Electronics,South,1,55000
+Jan,Jeans,Clothing,North,9,1800
+Jun,Jeans,Clothing,East,14,1800
+Sep,T-Shirt,Clothing,North,20,700
+Oct,T-Shirt,Clothing,South,29,700
+Dec,Headphones,Electronics,West,2,2500
+Sep,Laptop,Electronics,South,5,55000
+Feb,Headphones,Electronics,East,14,2500
+Nov,Jeans,Clothing,North,11,1800
+May,Rice (5kg),Grocery,East,29,450
+Jun,Rice (5kg),Grocery,West,14,450
+Sep,Rice (5kg),Grocery,South,10,450
+Nov,Phone,Electronics,West,4,20000
+Mar,Rice (5kg),Grocery,East,24,450
+Jan,T-Shirt,Clothing,East,18,700
+Jul,Headphones,Electronics,East,7,2500
+Aug,T-Shirt,Clothing,South,15,700
+Dec,Jeans,Clothing,South,16,1800
+May,Rice (5kg),Grocery,East,3,450
+Nov,Laptop,Electronics,East,2,55000
+Mar,Phone,Electronics,North,2,20000
+Aug,Laptop,Electronics,North,2,55000
+Nov,T-Shirt,Clothing,South,14,700
+Jul,Rice (5kg),Grocery,West,23,450
+Mar,T-Shirt,Clothing,North,8,700
+Feb,Notebook,Stationery,West,28,60
+Dec,Phone,Electronics,West,2,20000
+Apr,Laptop,Electronics,North,5,55000
+Aug,T-Shirt,Clothing,East,5,700
+Aug,Notebook,Stationery,West,29,60
+Sep,Notebook,Stationery,West,30,60
+Aug,Phone,Electronics,East,4,20000
+Nov,Notebook,Stationery,East,8,60
+Sep,Notebook,Stationery,West,25,60
+May,Rice (5kg),Grocery,West,8,450
+Apr,Laptop,Electronics,East,3,55000
+Sep,Headphones,Electronics,North,11,2500
+Apr,Phone,Electronics,West,2,20000
+Dec,Rice (5kg),Grocery,South,5,450
+Jul,Laptop,Electronics,East,4,55000
+Jul,Jeans,Clothing,North,15,1800
+Jul,Phone,Electronics,North,4,20000
+Oct,Notebook,Stationery,West,29,60
+Jun,T-Shirt,Clothing,East,1,700
+Jul,Notebook,Stationery,South,13,60
+May,T-Shirt,Clothing,West,8,700
+Jul,T-Shirt,Clothing,East,1,700
+Jul,Rice (5kg),Grocery,South,22,450
+Mar,Notebook,Stationery,North,15,60
+Oct,T-Shirt,Clothing,North,19,700
+Mar,Laptop,Electronics,West,4,55000
+May,Phone,Electronics,West,1,20000
+Aug,Headphones,Electronics,East,7,2500
+Jul,Headphones,Electronics,East,25,2500
+Jul,Notebook,Stationery,East,27,60
+Aug,Notebook,Stationery,North,3,60
+Jan,Rice (5kg),Grocery,East,18,450
+Nov,Phone,Electronics,North,1,20000
+Apr,Notebook,Stationery,South,1,60
+Oct,Notebook,Stationery,South,1,60
+Aug,Phone,Electronics,North,2,20000
+Aug,Jeans,Clothing,East,7,1800
+Mar,Notebook,Stationery,North,12,60
+Mar,Notebook,Stationery,East,27,60
+Jan,Laptop,Electronics,East,5,55000
+Jul,Jeans,Clothing,West,22,1800
+Feb,Rice (5kg),Grocery,South,7,450
+Nov,Laptop,Electronics,North,3,55000
+Jan,Notebook,Stationery,East,19,60
+Nov,Jeans,Clothing,East,14,1800
+Nov,Laptop,Electronics,East,5,55000
+Aug,Laptop,Electronics,North,4,55000
+Nov,T-Shirt,Clothing,West,12,700
+Jul,Rice (5kg),Grocery,South,5,450
+Nov,Rice (5kg),Grocery,East,17,450
+Sep,Jeans,Clothing,West,26,1800
+Dec,T-Shirt,Clothing,East,14,700
+Apr,Headphones,Electronics,North,28,2500
+Aug,Headphones,Electronics,South,29,2500
+Oct,Notebook,Stationery,West,15,60
+Aug,Headphones,Electronics,East,1,2500
+Apr,Phone,Electronics,East,4,20000
+Jun,Notebook,Stationery,East,9,60
+May,Jeans,Clothing,North,23,1800
+Feb,Jeans,Clothing,South,7,1800
+Aug,Rice (5kg),Grocery,South,14,450
+Nov,Rice (5kg),Grocery,West,16,450
+Jan,T-Shirt,Clothing,North,26,700
+Jul,Headphones,Electronics,South,8,2500
+Oct,Headphones,Electronics,East,22,2500
+Sep,T-Shirt,Clothing,East,18,700
+Sep,T-Shirt,Clothing,East,24,700
+Aug,Headphones,Electronics,East,23,2500
+Apr,Headphones,Electronics,North,9,2500
+Jun,Rice (5kg),Grocery,North,7,450
+Dec,Rice (5kg),Grocery,South,18,450
+Dec,Phone,Electronics,West,2,20000
+Oct,Headphones,Electronics,East,24,2500
+May,Laptop,Electronics,South,2,55000
+May,Headphones,Electronics,North,6,2500
+Mar,Rice (5kg),Grocery,East,18,450
+Sep,Laptop,Electronics,East,1,55000
+Nov,Rice (5kg),Grocery,West,5,450
+Oct,Laptop,Electronics,East,1,55000
+Aug,T-Shirt,Clothing,East,16,700
+May,Phone,Electronics,West,1,20000
+Jul,Laptop,Electronics,West,1,55000
+Nov,Laptop,Electronics,North,5,55000
+Oct,Phone,Electronics,East,2,20000
+Feb,Laptop,Electronics,West,2,55000
+Oct,Jeans,Clothing,South,20,1800
+Jul,Notebook,Stationery,West,17,60
+Oct,T-Shirt,Clothing,West,10,700
+Oct,Headphones,Electronics,North,19,2500
+Feb,Jeans,Clothing,South,24,1800
+May,Rice (5kg),Grocery,North,7,450
+Mar,Phone,Electronics,North,2,20000
+Jul,Phone,Electronics,West,1,20000
+Aug,Rice (5kg),Grocery,East,20,450
+May,Laptop,Electronics,East,2,55000
+Aug,Rice (5kg),Grocery,North,28,450
+May,Rice (5kg),Grocery,South,8,450
+Sep,T-Shirt,Clothing,South,4,700
+May,Rice (5kg),Grocery,South,5,450
+Mar,Laptop,Electronics,East,1,55000
+Oct,Jeans,Clothing,East,24,1800
+Aug,T-Shirt,Clothing,East,4,700
+May,Rice (5kg),Grocery,West,13,450
+Oct,T-Shirt,Clothing,North,3,700
+Jun,T-Shirt,Clothing,East,24,700
+Apr,Laptop,Electronics,North,1,55000
+May,Notebook,Stationery,North,22,60
+Mar,Notebook,Stationery,West,25,60
+Aug,Jeans,Clothing,East,21,1800
+Jul,Phone,Electronics,West,5,20000
+Jun,Laptop,Electronics,West,4,55000
+Nov,Headphones,Electronics,North,11,2500
+Jun,Notebook,Stationery,West,6,60
+May,Rice (5kg),Grocery,West,16,450
+Sep,Notebook,Stationery,North,25,60
+Jun,T-Shirt,Clothing,East,3,700
+Jul,Headphones,Electronics,North,4,2500
+Sep,Rice (5kg),Grocery,West,28,450
+Apr,T-Shirt,Clothing,East,2,700
+Aug,Jeans,Clothing,West,25,1800
+Apr,Notebook,Stationery,East,2,60
+May,Jeans,Clothing,West,5,1800
+Feb,Rice (5kg),Grocery,North,16,450
+Apr,Rice (5kg),Grocery,South,20,450
+Jan,Headphones,Electronics,West,18,2500
+Feb,Laptop,Electronics,West,2,55000
+Aug,Laptop,Electronics,East,2,55000
+May,Jeans,Clothing,West,23,1800
+Aug,Notebook,Stationery,South,16,60
+Mar,T-Shirt,Clothing,West,18,700
+Sep,Phone,Electronics,South,5,20000
+May,Notebook,Stationery,West,3,60
+Sep,Headphones,Electronics,East,30,2500
+May,Notebook,Stationery,East,1,60
+Oct,Notebook,Stationery,West,19,60
+Aug,Notebook,Stationery,West,5,60
+Sep,Headphones,Electronics,West,11,2500
+Jun,T-Shirt,Clothing,South,30,700
+Oct,Rice (5kg),Grocery,West,8,450
+Jan,Phone,Electronics,East,4,20000
+Dec,Rice (5kg),Grocery,West,16,450
+Nov,T-Shirt,Clothing,South,22,700
+Mar,T-Shirt,Clothing,East,2,700
+Aug,Notebook,Stationery,North,4,60
+Aug,Jeans,Clothing,North,30,1800
+Jul,Rice (5kg),Grocery,South,5,450
+May,Laptop,Electronics,East,4,55000
+Jul,Jeans,Clothing,North,23,1800
+Nov,Notebook,Stationery,West,11,60
+Dec,Headphones,Electronics,West,21,2500
+Jan,Notebook,Stationery,North,18,60
