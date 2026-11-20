@@ -1,0 +1,14 @@
+[
+    {
+        "event": "Login",
+        "status": "Success"
+    },
+    {
+        "event": "Payment",
+        "status": "Failed"
+    },
+    {
+        "event": "Logout",
+        "status": "Success"
+    }
+]
